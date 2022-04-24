@@ -1,0 +1,7 @@
+#buat keterangan jumlah baris dengan int
+n=int(input("Masukkan jumlah baris:"))
+
+#1,n+1,dimulai dari 1 dan n+1 jumlah baris yang diinput
+for i in range(1,n+1):
+       #pada print beri spasi sekali pada tanda petik 1 agar output nya berbentuk segitiga piramida
+	  print(' '*(n-i),*(j for j in range(1,i+1)))
