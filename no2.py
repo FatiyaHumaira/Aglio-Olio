@@ -1,4 +1,3 @@
-#include <stdio.h)
 #variabel untuk menginput kalimat
 kalimat =input()
 #variabel uintuk mengetahui panjang string
