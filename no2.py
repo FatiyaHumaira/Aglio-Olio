@@ -1,7 +1,9 @@
 #include <stdio.h)
-
+#variabel untuk menginput kalimat
 kalimat =input()
+#variabel uintuk mengetahui panjang string
 panjang =len(kalimat)
+#perulangan untuk pengecekan string
 for i in  range(panjang):
     if kalimat[i]=='a':
         print('aga', end="")
