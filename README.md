@@ -1,5 +1,5 @@
 # Aglio-Olio
-Project Lab Pemograman B (Pemesanan Makanan berbasis CLI)
+Project Lab Pemograman B (Pemesanan Makanan)
 
 ## Cara Lakukan Kompilasi
 - gcc -Wall -o reg registrasi.c implementasi.c
