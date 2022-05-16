@@ -28,6 +28,7 @@ int main(){
 		if(option==1){
 			printf("\n\n");
 			daftar_acc();
+			printf("Berhasil daftar akun\n\n");
 			printf("\n\n");
 		}
 		else if(option==2){
