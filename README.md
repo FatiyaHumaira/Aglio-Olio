@@ -8,7 +8,7 @@ Project Lab Pemograman B (Pemesanan Makanan)
 
 ## Cara Menjalankan Aplikasi (Main)
 ./main username password
-pastikan username dan password telah didaftarkan sebelumnya 
+**Pastikan username dan password telah didaftarkan sebelumnya**
 
 ## Pembagian pengerjaan : 
 
