@@ -1,14 +1,18 @@
 # Aglio-Olio
 Project Lab Pemograman B (Pemesanan Makanan)
 
-Lakukan Kompilasi
-$
-$
+# Cara Lakukan Kompilasi
+$ gcc -Wall -o reg registrasi.c imple.c
+$ gcc -Wall -o main main.c imple.c makanan.c
 
-Pembagian pengerjaan : 
+# Cara Menjalankan Aplikasi (Main)
+./main username password
+pastikan username dan password telah didaftarkan sebelumnya 
+
+# Pembagian pengerjaan : 
 
 - Aplikasi Pemesanan Makanan berbasis CLI : Faiza Sabila dan Fatiya Humaira Yunaz
 - Konversi kalimat biasa menjadi bahasa G : Ulan Sawalia
 - Mencetak segitiga berpola piramida : T. Indris Andina
 - Pengurutan Angka : Muhammad Al-Hadziq Tarmizi
-                  ---------
+                
